@@ -1,1 +1,5 @@
-Governance scripts for data quality checks
+Defines data quality rules and thresholds:
+- Acceptable NULL percentages
+- Duplicate tolerance
+- Escalation criteria
+- Monitoring guidelines
